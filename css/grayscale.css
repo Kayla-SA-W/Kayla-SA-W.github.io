@@ -84,6 +84,11 @@
   }
 }
 
+.skillsrows {
+  display: flex;
+  justify-content: space-between;
+}
+
 .masthead {
   position: relative;
   width: 100%;
