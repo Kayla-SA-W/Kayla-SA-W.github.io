@@ -123,10 +123,6 @@
   font-size: 1rem;
 }
 
-.skillscolumn > img:hover{
-  background-color: rgba(100, 161, 157, 0.5);
-}
-
 
 @media (min-width: 768px) {
   .masthead h1 {
