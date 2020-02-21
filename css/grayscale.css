@@ -86,8 +86,13 @@
 
 .skillsrows {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-content: space-around;
+}
+
+.skillscolumn {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .masthead {
