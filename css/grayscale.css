@@ -123,7 +123,7 @@
   font-size: 1rem;
 }
 
-.skillscolumn img:hover{
+.skillscolumn > img:hover{
   background-color: rgba(100, 161, 157, 0.5);
 }
 
