@@ -17,8 +17,10 @@
       border: 0;
     }
   }
-  .skills-img{
-    background-image: none;
-    background: rgba(255, 255, 255, .7);
+  .skillscolumn{
+      background-image: none;
+    .skills-img{
+      background: rgba(255, 255, 255, .7);
+    }
   }
 }
