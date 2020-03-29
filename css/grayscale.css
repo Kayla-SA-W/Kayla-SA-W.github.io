@@ -300,6 +300,10 @@ a:focus, a:hover {
   background-color: #64a19d !important;
 }
 
+.skillsrows {
+  background-color: rgba(255, 255, 255, .3)
+}
+
 .text-primary {
   color: #64a19d !important;
 }
